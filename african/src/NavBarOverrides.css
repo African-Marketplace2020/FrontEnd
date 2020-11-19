@@ -1,0 +1,41 @@
+
+.PrivateTabIndicator-colorPrimary-63 {
+    background-color: white !important;
+  }
+  
+  .makeStyles-root-1 {
+    width: 100% !important;
+  }
+  
+  .MuiTabs-flexContainer {
+    background-color: #068460 !important;
+  }
+  
+  .MuiTab-wrapper {
+    color: white !important;
+    font-size: 0.9rem;
+    font-weight: 800 !important;
+    margin-top: 12%;
+    font-family: 'Raleway';
+  }
+
+  .MuiTab-textColorPrimary.Mui-selected {
+      color: #068460 !important;
+  }
+
+  .listed-items {
+      background-color: #F4F8F7;
+  }
+
+  .product {
+    background-color: white;
+  }
+
+  .MuiButtonBase-root:focus  {
+        outline: none !important;
+  }
+
+  div.App:first-child:nth-child(2) {
+      display: inline-block !important;
+      width: 100% !important;
+  }
